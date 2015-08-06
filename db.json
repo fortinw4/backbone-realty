@@ -1,0 +1,20 @@
+{
+  "homes": [
+    {
+      "id": 1,
+      "price": 1000000,
+      "realtorId": 1,
+      "city": "Muppetville",
+      "street": "123 Sesame St",
+      "state": "NC"
+    },
+    {
+      "id": 2,
+      "price": 200000,
+      "realtorId": 2,
+      "city": "Muppetville",
+      "street": "234 Sesame St #B",
+      "state": "NC"
+    }
+  ]
+}
